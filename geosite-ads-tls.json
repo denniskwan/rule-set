@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "rules":
+    [
+        {
+            "domain_suffix":
+            [
+                "improving.duckduckgo.com",
+                "tpc.googlesyndication.com",
+                "log16-normal-useast8.tiktokv.us",
+                "mon16-normal-useast5.tiktokv.us"
+            ]
+        }
+    ]
+}
