@@ -1,10 +1,8 @@
 	".vip",
-<<<<<<< HEAD
 	"ads.trckbzn.com",
 	"api.iconify.desig",
 	"gvt3.com",
 	"hotchat.ai",
-=======
         ".cm",
         ".tk",
         ".de",
@@ -24,7 +22,6 @@
         "spiky.clevertap-prod.com",
         "telemetry.officeapps.live.com",
         "telemetry.officeapps.live.com.mcas.ms",
->>>>>>> 63cb32ab0a94e460d1d784674fe10269c7cded3a
         ".3.n.2.1.l50.js",
         ".3.n.2.2.l30.js",
         ".allalla.com",
@@ -52320,12 +52317,3 @@
         "zztxfj.xyz",
         "zzxjlr.com",
         "zzyjpmh.com"
-      "domain_suffix": [
-      ]
-    {
-    }
-  "rules": [
-  "version": 1,
-  ]
-{
-}
