@@ -2,7 +2,21 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [".jp", ".jp.net", "rakuten.com"]
+      "domain_suffix": [
+        ".jp",
+        ".jp.net",
+        "rakuten.com",
+        "r10s.com",
+        "r10s.jp",
+        "rakuten-static.com",
+        "rakuten.co.jp",
+        "rakuten.com",
+        "rakuten.com.tw",
+        "rakuten.ne.jp",
+        "rakuten.tw",
+        "rclon.com",
+        "rebates.jp"
+      ]
     }
   ]
 }
