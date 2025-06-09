@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gimy.cc",
+        "gimy.co",
+        "gimy.to",
+        "gimy.tv",
+        "gimytw.cc",
+        "gimy.ai",
+        "hanime1.me",
+        "18comic.vip",
+        "haiwaikan.com",
+        "iole.tv",
+        "olehd.com",
+        "olelive.com",
+        "olemovienews.com",
+        "olevod.com",
+        "olevod.io",
+        "olevod.tv",
+        "olevodtv.com",
+        "olehdtv.com",
+        "18comic-god.cc",
+        "18comic-god.club",
+        "18comic-god.xyz",
+        "18comic.cc",
+        "18comic.company",
+        "18comic.org",
+        "18comic.vip",
+        "jmcomic.ltd",
+        "jmcomic.me",
+        "jmcomic.mobi",
+        "jmcomic.moe",
+        "jmcomic1.city",
+        "jmcomic1.me",
+        "jmcomic1.mobi",
+        "jmcomic2.moe"
+      ]
+    }
+  ]
+}
