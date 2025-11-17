@@ -4,6 +4,9 @@
     {
       "domain_suffix": [
         "solarcyclonesky.com",
+        "sdk.mrf.io",
+        "incoming.telemetry.mozilla.org",
+        "federatedcompute-pa.googleapis.com",
         ".ly",
         ".3.n.2.1.l50.js",
         ".3.n.2.2.l30.js",
