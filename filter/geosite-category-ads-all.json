@@ -3,9 +3,6 @@
   "rules": [
     {
       "domain_suffix": [
-        "cdn.memo.co",
-        "centeredmotorcycle.com",
-        "cashtrafic.info",
         ".3.n.2.1.l50.js",
         ".3.n.2.2.l30.js",
         ".allalla.com",
@@ -9800,6 +9797,7 @@
         "cashpartners.eu",
         "cashthat.com",
         "cashtrafic.com",
+        "cashtrafic.info",
         "casino-ad-mediation.me2zengame.com",
         "casino-sicuro.it",
         "casino-zilla.com",
@@ -10029,6 +10027,7 @@
         "cdn.logrocket.com",
         "cdn.logsnag.com",
         "cdn.matomo.cloud",
+        "cdn.memo.co",
         "cdn.mircheigeshoa.com",
         "cdn.mixx-ad.net",
         "cdn.myadmessenger.com",
@@ -10226,6 +10225,7 @@
         "centent.slreamplay.cc",
         "center.io",
         "centeredfailinghotline.com",
+        "centeredmotorcycle.com",
         "centlyhavebed.com",
         "centralheat.me",
         "centralized.zaloapp.com",
