@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "tags.tiqcdn.com",
         "003store.com",
         "creative.tklivechat.com",
         "saawsedge.com",
