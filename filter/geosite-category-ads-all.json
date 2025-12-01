@@ -3,8 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
-      "tnc19-normal-useast8.tiktokv.us",
-      "log16-normal-useast8.tiktokv.us",
+        "rtlog16-normal-useast8.tiktokv.us",
+        "tnc19-normal-useast8.tiktokv.us",
+        "log16-normal-useast8.tiktokv.us",
         "tnc16-normal-useast5.tiktokv.us",
         "mon16-normal-useast8.tiktokv.us",
         "sdk.iad-05.braze.com",
