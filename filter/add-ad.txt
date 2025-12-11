@@ -1,0 +1,12 @@
+        "rtlog16-normal-useast8.tiktokv.us",
+        "tnc19-normal-useast8.tiktokv.us",
+        "log16-normal-useast8.tiktokv.us",
+        "tnc16-normal-useast5.tiktokv.us",
+        "mon16-normal-useast8.tiktokv.us",
+        "sdk.iad-05.braze.com",
+        "aax-us-east-retail-direct.amazon.com",
+        "client.rum.us-east-1.amazonaws.com",
+        "beacons5.gvt3.com",
+        ".gvt2.com",
+        "analytics.google.com",
+ 
