@@ -3,6 +3,11 @@
   "rules": [
     {
       "domain": [
+        ".adobe.com",
+        ".google.com",
+        ".google.dev",
+        ".tw",
+        ".co.jp",
         "3dns-1.adobe.com",
         "3dns-2.adobe.com",
         "3dns-3.adobe.com",
@@ -17552,7 +17557,7 @@
         "olds.ac.uk",
         "oldvic.ac.uk",
         "olehd.com",
-	"olehdtv.com",
+        "olehdtv.com",
         "olelive.com",
         "olemovienews.com",
         "olevod.com",
