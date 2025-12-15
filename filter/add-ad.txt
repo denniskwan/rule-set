@@ -1,12 +1,108 @@
-        "rtlog16-normal-useast8.tiktokv.us",
-        "tnc19-normal-useast8.tiktokv.us",
-        "log16-normal-useast8.tiktokv.us",
-        "tnc16-normal-useast5.tiktokv.us",
-        "mon16-normal-useast8.tiktokv.us",
-        "sdk.iad-05.braze.com",
-        "aax-us-east-retail-direct.amazon.com",
-        "client.rum.us-east-1.amazonaws.com",
-        "beacons5.gvt3.com",
-        ".gvt2.com",
-        "analytics.google.com",
- 
+"AAX-US-EAST-RETAIL-DIRECT.AMAZON.COM",
+"ANALYTICS.GOOGLE.COM",
+"BEACONS5.GVT3.COM",
+"BIDR.IO",
+"BIDSWITCH.NET",
+"CLIENT.RUM.US-EAST-1.AMAZONAWS.COM",
+"EFFIRST.COM",
+"EUS.RUBICONPROJECT.COM",
+".GVT2.COM",
+"IPREDICTIVE.COM",
+"LIADM.COM",
+"LOG16-NORMAL-USEAST8.TIKTOKV.US",
+"MAGSRV.COM",
+"MON16-NORMAL-USEAST8.TIKTOKV.US",
+"OMNITAGJS.COM",
+"ORBSRV.COM",
+"PIXEL.RUBICONPROJECT.COM",
+"PIXEL-US-EAST.RUBICONPROJECT.COM",
+"RLCDN.COM",
+"RTLOG16-NORMAL-USEAST8.TIKTOKV.US",
+"SDK.IAD-05.BRAZE.COM",
+"SMAATO.NET",
+"SNAPTRCKR.FUN",
+"SSP.HINET.NET",
+"TAGTOO.CO",
+"TNC16-NORMAL-USEAST5.TIKTOKV.US",
+"TNC19-NORMAL-USEAST8.TIKTOKV.US",
+"YELLOWBLUE.IO",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
