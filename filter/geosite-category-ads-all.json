@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "conversionsapigateway.com",
+        "bance.jp",
+        "ads-twitter.com",
+        "d2-apps.net",
         "magsrv.com",
         "effirst.com",
         "snaptrckr.fun",
