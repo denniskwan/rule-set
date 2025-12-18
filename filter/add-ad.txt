@@ -1,3 +1,7 @@
+"getui.net",
+"minerva.devices.a2z.com",
+"mxpnl.com",
+"twinrdengine.com",
 "conversionsapigateway.com",
 "bance.jp",
 "ads-twitter.com",

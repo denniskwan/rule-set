@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "getui.net",
+        "minerva.devices.a2z.com",
+        "mxpnl.com",
         "conversionsapigateway.com",
         "bance.jp",
         "ads-twitter.com",
