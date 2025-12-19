@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "sdk.open.talk.igexin.com",
+        "shoplytics.com",
+        "demdex.net",
+        "stats.paypal.com",
         "getui.net",
         "minerva.devices.a2z.com",
         "mxpnl.com",
