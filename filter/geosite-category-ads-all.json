@@ -3,6 +3,19 @@
   "rules": [
     {
       "domain_suffix": [
+        "japandigest.info",
+        "wpadmngr.com",
+        "mc.yandex.ru",
+        "exosrv.com",
+        "pixel-us-west.rubiconproject.com",
+        "backstory.ebay.com",
+        "ebayrtm.com",
+        "hadronid.net",
+        "ab.dns-finder.com",
+        "go-mpulse.net",
+        "rt.applvn.com",
+        "d.applvn.com",
+        "ms.applvn.com",
         "sdk.open.talk.igexin.com",
         "shoplytics.com",
         "demdex.net",
