@@ -1,3 +1,7 @@
+"cooperative-reveal.com",
+"certify-js.alexametrics.com",
+"au.adhacker.online",
+"techlab-cdn.com",
 "torealiukzemydr.org",
 "mavrtracktor.com",
 "youstarsbuilding.com",

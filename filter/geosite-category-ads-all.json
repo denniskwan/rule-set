@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "cooperative-reveal.com",
+        "certify-js.alexametrics.com",
+        "au.adhacker.online",
+        "techlab-cdn.com",
         ".biz",
         ".buzz",
         ".cfd",
