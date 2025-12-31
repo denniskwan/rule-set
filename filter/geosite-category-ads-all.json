@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "compass-fit.jp",
+        "micro.rubiconproject.com",
         "cooperative-reveal.com",
         "certify-js.alexametrics.com",
         "au.adhacker.online",
