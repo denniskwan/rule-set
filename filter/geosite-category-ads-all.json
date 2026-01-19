@@ -3,6 +3,10 @@
   "rules": [
     {
       "domain_suffix": [
+        "mmstat.com",
+        "volceapplog.com",
+        "tapioni.com",
+        "accountkits.xyz",
         "contentsquare.net",
         "xz.fbcdn.net",
         "ogads-pa.clients6.google.com",
