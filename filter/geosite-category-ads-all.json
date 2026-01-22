@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "tags.mlytics.com",
         "mmstat.com",
         "volceapplog.com",
         "tapioni.com",
