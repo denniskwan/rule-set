@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "collector-20617.tvsquared.com",
+        "oracleinfinity.io",
         "tags.mlytics.com",
         "mmstat.com",
         "volceapplog.com",
