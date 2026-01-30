@@ -3,6 +3,13 @@
   "rules": [
     {
       "domain_suffix": [
+        "mosspf.net",
+        "mossru.com",
+        "adx.opera.com",
+        "ir-sdk.guardease.com",
+        "rum-ingress-coralogix.com",
+        "d3banl4fzuxsjl.cloudfront.net",
+        "adzerk.net",
         "collector-20617.tvsquared.com",
         "oracleinfinity.io",
         "tags.mlytics.com",
