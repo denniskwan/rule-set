@@ -3,6 +3,15 @@
   "rules": [
     {
       "domain_suffix": [
+        "securemetrics.apple.com",
+        "graffiti-tags.apple.com",
+        "geoedge.be",
+        "mmvideocdn.com",
+        "hs-scripts.com",
+        "sail-horizon.com",
+        "agkn.com",
+        "sdk.fra-01.braze.eu",
+        "dwin1.com",
         "realsrv.com",
         "stoppedcrag.com",
         "5leosgto.xyz",
@@ -20488,7 +20497,6 @@
         "data.sbux.test.ajo.adobe.com",
         "data.sec.intl.miui.com",
         "data.sec.miui.com",
-        "data.securemetrics-apple.com",
         "data.service.colonialfirststate.com.au",
         "data.service.costa.it",
         "data.service.hibdontiresplus.com",
