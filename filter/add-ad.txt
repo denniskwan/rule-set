@@ -1,3 +1,4 @@
+"ad-arrow.com",
 "reemo-ad.jp",
 "securemetrics.apple.com",
 "graffiti-tags.apple.com",
