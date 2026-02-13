@@ -1,3 +1,4 @@
+"criteo.net",
 "ad-arrow.com",
 "reemo-ad.jp",
 "securemetrics.apple.com",
