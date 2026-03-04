@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "googleapis.cn",
         "xy.fbcdn.net",
         "realtimely.io",
         "conde.digital",
