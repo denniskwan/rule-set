@@ -1,3 +1,5 @@
+"covatic.io",
+"a.tampermonkey.net",
 "robin-flow.com",
 "cpatrk.net",
 "1rx.io",
