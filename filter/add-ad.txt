@@ -1,3 +1,4 @@
+"bdtelemetry.amazon",
 "covatic.io",
 "a.tampermonkey.net",
 "robin-flow.com",
