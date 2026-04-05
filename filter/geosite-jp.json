@@ -4,18 +4,23 @@
     {
       "domain_suffix": [
         ".jp",
+        ".hk",
+        ".tw",
         ".jp.net",
         "rakuten.com",
         "r10s.com",
-        "r10s.jp",
         "rakuten-static.com",
-        "rakuten.co.jp",
         "rakuten.com",
-        "rakuten.com.tw",
-        "rakuten.ne.jp",
-        "rakuten.tw",
-        "rclon.com",
-        "rebates.jp"
+        "rclon.com"
+      ],
+      "domain": [
+        "stat.659178.xyz",
+        "usad.659178.xyz",
+        "cloud.659178.xyz",
+        "uptime.659178.xyz",
+        "ad.659178.xyz",
+        "mail.659178.xyz",
+        "mx.659178.xyz"
       ]
     }
   ]
