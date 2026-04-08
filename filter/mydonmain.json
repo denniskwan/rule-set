@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "stat.659178.xyz",
+        "usad.659178.xyz",
+        "cloud.659178.xyz",
+        "uptime.659178.xyz",
+        "ad.659178.xyz",
+        "mail.659178.xyz",
+        "mx.659178.xyz"
+      ]
+    }
+  ]
+}
