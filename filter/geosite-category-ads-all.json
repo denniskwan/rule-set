@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "epsilon.6sense.com",
+        "fastlane.rubiconproject.com",
         "ndcertainlywhen.com",
         "bdtelemetry.amazon",
         "covatic.io",
