@@ -1,3 +1,6 @@
+"prebid-server.rubiconproject.com",
+"cdn.confiant-integrations.net",
+"stats.sirdata.eu",
 "epsilon.6sense.com",
 "fastlane.rubiconproject.com",
 "ndcertainlywhen.com",
