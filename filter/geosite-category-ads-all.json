@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "txutayo.com",
+        "bluetrafficstream.com",
         "prebid-server.rubiconproject.com",
         "cdn.confiant-integrations.net",
         "stats.sirdata.eu",
