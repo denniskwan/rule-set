@@ -1,3 +1,4 @@
+"data.tm-awx.com",
 "txutayo.com",
 "bluetrafficstream.com","prebid-server.rubiconproject.com",
 "cdn.confiant-integrations.net",

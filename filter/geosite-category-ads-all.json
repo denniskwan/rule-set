@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "data.tm-awx.com",
         "txutayo.com",
         "bluetrafficstream.com",
         "prebid-server.rubiconproject.com",
