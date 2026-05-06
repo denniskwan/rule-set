@@ -1,3 +1,4 @@
+"rallytrck.website",
 "data.tm-awx.com",
 "txutayo.com",
 "bluetrafficstream.com","prebid-server.rubiconproject.com",
