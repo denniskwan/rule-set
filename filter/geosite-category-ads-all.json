@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain_suffix": [
+        "pbstck.com",
+        "fpconfig.net",
+        "fpjs.io",
         "data.tm-awx.com",
         "rallytrck.website",
         "txutayo.com",
