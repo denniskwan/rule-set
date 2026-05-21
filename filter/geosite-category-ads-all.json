@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "adexchangerapid.com",
         "pbstck.com",
         "fpconfig.net",
         "fpjs.io",
