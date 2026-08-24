@@ -3,6 +3,11 @@
   "rules": [
     {
       "domain_suffix": [
+        "footprintdns.com",
+        "a.klaviyo.com",
+        "telemetry.insights.video.a2z.com",
+        "whale.camera",
+        "sponsored-ads.amazon.com",
         "chnsrv.com",
         "endlesshandbaglinked.com",
         "pemsrv.com",
