@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "api.tblcontent.com",
         "vm5apis.com",
         "susigkeit.com",
         "footprintdns.com",
